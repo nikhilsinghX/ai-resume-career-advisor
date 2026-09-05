@@ -85,7 +85,7 @@ streamlit run app.py
 
 ## Tech stack used
 
-- Python, LangChain, OpenAI API (chat + embeddings)
+- Python, LangChain, Gemini API (chat + embeddings)
 - FAISS (vector store)
 - Streamlit (UI)
 - pypdf (PDF text extraction)
