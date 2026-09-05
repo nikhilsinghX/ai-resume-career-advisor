@@ -89,3 +89,6 @@ streamlit run app.py
 - FAISS (vector store)
 - Streamlit (UI)
 - pypdf (PDF text extraction)
+
+
+![Architecture Diagram](docs/architecture_diagram.png)
